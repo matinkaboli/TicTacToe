@@ -4,7 +4,6 @@ var win;
 var turn = 0;
 var zero = 0;
 
-window.onload = () => {
     draw();
     paint = new Array();
     content = new Array();
@@ -14,7 +13,6 @@ window.onload = () => {
         paint[i] = false;
         content[i] = '';
     }
-}
 
 function draw () {
   var body = document.getElementsByTagName('body')[0];
