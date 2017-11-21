@@ -1,2 +1,2 @@
 # TicTacToe
-create tictactoe using canvas
+Canvas Tictactoe
